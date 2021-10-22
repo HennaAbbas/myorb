@@ -1,5 +1,5 @@
-description: > 
-  Notify a Slack channel with a custom message.
+description: >
+  custom notify command
 parameters:
   branch_pattern:
     default: .+
