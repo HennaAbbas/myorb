@@ -13,4 +13,3 @@ parameters:
 steps:
   - greet:
       to: << parameters.to >>
-#test
