@@ -62,9 +62,7 @@ parameters:
     type: string
   template:
     default: ''
-    description: >-
-      Use one of the built-in templates. Select the template name. Preview each
-      template on the gitHub Readme: 
+    description: >
     type: string
 steps:
   - run:
