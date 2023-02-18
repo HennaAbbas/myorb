@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  # Replace this with your own!!
+  # Replace this with your own!
   myorb: hennaabbas/myorb@2.0.0
   orb-tools: circleci/orb-tools@10.0
   bats: circleci/bats@1.0
